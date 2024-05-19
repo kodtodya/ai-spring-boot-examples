@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.kodtodya.practice</groupId>
-	<artifactId>ola-krutrim-ai-clilent-example</artifactId>
+	<artifactId>ola-krutrim-ai-client-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ola-krutrim-ai-clilent-example</name>
+	<name>ola-krutrim-ai-client-example</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
