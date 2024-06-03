@@ -1,4 +1,3 @@
-README.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -180,7 +179,6 @@ target
 *.sublime-*
 /scratch
 .gradle
-README.html
 .exercism
 /logs/*
 /logs
